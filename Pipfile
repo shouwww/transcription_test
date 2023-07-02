@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai-whisper = "*"
+setuptools-rust = "*"
+pytorch = "==1.13.1"
+torchvision = "==0.14.1"
+torchaudio = "==0.13.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.13"
