@@ -33,12 +33,10 @@ pip install openai-whisper
 pip install openai
 ```
 
-VOICEVOXのインストール
+VOICEVOX install
 <https://voicevox.hiroshiba.jp/>
 
 ## Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 windows
 
